@@ -1,0 +1,6 @@
+Deploying the GAN to a cloud-based service procedure:
+
+To get an image generation service going, we need to pick a cloud provider like AWS, Google Cloud, or Azure. 
+Then, we build an API using Flask, stash our model in the cloud, and create an endpoint for generating images. 
+If we want, we can use serverless options to deploy it easily. Clear documentation helps users, and the cloud takes care of scaling as needed. 
+Just be mindful of costs as you proceed. This practical approach simplifies image generation, making it efficient and budget-friendly.
